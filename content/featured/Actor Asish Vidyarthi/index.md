@@ -1,7 +1,7 @@
 ---
 date: '5'
 title: 'Actor Asish VIdyarthi'
-cover: './webcam.png'
+cover: './WhatsApp Image 2025-06-27 at 11.42.05 PM.jpeg'
 github: 'google.com'
 external: 'https://www.youtube.com/watch?v=R9DrmK5U2-I&t=160s&ab_channel=AshishVidyarthiActorVlogs'
 tech:
